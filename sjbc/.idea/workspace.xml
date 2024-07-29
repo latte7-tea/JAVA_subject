@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64c4d1e7-a76c-44f5-85fd-f970318bbc92" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/../20240605/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Mesurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/ParallelMovable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/refactoring/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/refactoring/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/refactoring/Sample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/refactoring/Sample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024Java/2024Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024Java/src/main/java/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20240605/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20240605/src/main/java/org/function/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/function/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20240605/src/main/java/org/inter/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../answer_practice5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice11/practice11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5/practice5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5_ans/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5_ans/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5_ans/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5_ans/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5_ans/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project10/src/java/org/sample/question12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/project4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/org/example/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/Main/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/Main/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/Main/question4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/Main/question5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2iwXw7Nq9aOwg3Z5X59dD6wJmuZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tubes/IdeaProjects/sjbc"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="sjbc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="sjbc" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="64c4d1e7-a76c-44f5-85fd-f970318bbc92" name="変更" comment="" />
+      <created>1720402848856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720402848856</updated>
+    </task>
+    <servers />
+  </component>
+</project>
